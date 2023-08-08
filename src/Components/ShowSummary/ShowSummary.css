@@ -1,0 +1,41 @@
+
+
+.sumarry-container {
+
+    margin-top: 30px; 
+
+}
+
+.summary {
+    margin-top: 45px;
+    text-align: center;
+   
+}
+
+
+.sum-section {
+    border: 1px solid grey;
+    align-items: center;
+    height: 250px;
+}
+
+.para {
+    margin-left: 10px;
+    align-items: center;
+   
+}
+
+.btn {
+    border: 2px solid grey;
+    border-radius: 5px;
+    height: 35px;
+    background-color: rgba(128, 128, 128, 0.849);
+    cursor: pointer;
+    margin: auto;
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    margin-top: 30px;
+}
+
